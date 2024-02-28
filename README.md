@@ -1,4 +1,4 @@
-# ObjectsOne
+# Kris ObjectsOne
 
 What's the point of OOP? What's the _object_ of it all?
 
